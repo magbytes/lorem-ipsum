@@ -1,4 +1,4 @@
 # lorem-ipsum
 Lorem ipsum
 
-TAG 2.0
+TAG 3.0
