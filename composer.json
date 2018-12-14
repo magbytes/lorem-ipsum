@@ -1,0 +1,8 @@
+{
+    "name": "magbytes/loremipsum",
+    "autoload": {
+        "psr-0" : {
+            "Magbytes\\Loremipsum" : "src"
+        }
+    }
+}
