@@ -1,4 +1,4 @@
 # lorem-ipsum
 Lorem ipsum
 
-Tag 6.0
+Tag 7.0
